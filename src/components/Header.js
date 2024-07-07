@@ -25,7 +25,7 @@ const Header = () => {
                 <p className='tracking-wide leading-relaxed font-extralight text-center text-justify'>Buy and sell cryptocurrencies, trusted by 10M wallets with over $30 billion in transactions. Experience the next generation cryptocurrency platform. No financial limits, extra fees, and fake reviews.</p>
             </div>
             <div>
-                <img src={Bitcoin} alt='Bitcoin' className='absolute w-48 md:w-80 bottom-8 right-24 md:right-56 md:bottom-24 lg:top-48 lg:right-32 animate-bounce-slow' />
+                <img src={Bitcoin} alt='Bitcoin' className='absolute w-48 md:w-80 bottom-8 right-28 md:right-56 md:bottom-24 lg:top-48 lg:right-32 animate-bounce-slow' />
                 <img src={Robothand} alt='Robothand' className='lg:ml-10' />
             </div>
         </Element>
