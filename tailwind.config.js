@@ -11,9 +11,6 @@ module.exports = {
       fontFamily: {
         'Poppins': 'Poppins',
       },
-      // fontFamily: {
-        //   'iranyekan': 'iranyekan',
-        // },
       },
       colors: {
         transparent: 'transparent',
